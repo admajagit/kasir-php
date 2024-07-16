@@ -1,0 +1,31 @@
+body {
+    margin: 0px; padding: 0px;}
+    #header{
+    width:743px;
+    margin-left: 5px;
+    background-color: #e3e191; border: 1px #a0b1a0 solid; padding: 5px;}
+    #kiri{
+    float: left;
+    width: 200px;
+    padding: 9px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    background-color: #b3fd9d; border: 1px #a0b1a0 solid;}
+    #tengah{
+    float: left;
+    width: 500px;
+    padding: 9px;
+    border: 1px #a0b1a0 solid;
+    margin-top: 5px; margin-left: 10px;
+    background-color: #8ad3ec;
+    margin-bottom: 5px;}
+    #footer{
+    clear: left;
+    margin-left: 5px;
+    width:743px; padding: 5px;
+    background-color: #ffceff; border: 1px #a0b1a0 solid;}
+    img {
+    float: right;
+    margin: 0 0 10px 10px;
+    }
